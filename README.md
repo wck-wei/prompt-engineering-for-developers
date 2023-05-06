@@ -1,5 +1,3 @@
-![figures/readme.png](https://github.com/datawhalechina/prompt-engineering-for-developers/blob/main/figures/readme.jpeg)
-
 # prompt-engineering-for-developers
 
 ### 项目简介
@@ -58,12 +56,7 @@ LLM 正在逐步改变人们的生活，而对于开发者，如何基于 LLM �
 
 1. 特别感谢 [@Sm1les](https://github.com/Sm1les)、[@LSGOMYP](https://github.com/LSGOMYP) 对本项目的帮助与支持；
 
-### 关注我们
 
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="figures/qrcode.jpeg" width = "180" height = "180">
-</div>
 &emsp;&emsp;Datawhale，一个专注于AI领域的学习圈子。初衷是for the learner，和学习者一起成长。目前加入学习社群的人数已经数千人，组织了机器学习，深度学习，数据分析，数据挖掘，爬虫，编程，统计学，Mysql，数据竞赛等多个领域的内容学习，微信搜索公众号Datawhale可以加入我们。
 
 ## LICENSE
